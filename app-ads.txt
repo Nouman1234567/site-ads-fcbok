@@ -1,3 +1,8 @@
 facebook.com, 803402024240039, DIRECT, c3e20eee3f780d68
 google.com, pub-9671189322827417, DIRECT, f08c47fec0942fa0
 vungle.com, 699792a14c0d69d44ce3ad45, DIRECT, c107d686becd2d77
+unity.com, 5612901, DIRECT
+pangleglobal.com, 1000000000000000, DIRECT
+mintegral.com, 123456789, DIRECT
+inmobi.com, 8c4e2f50f0d6ec3b, DIRECT
+chartboost.com, 1122334455667788, DIRECT
